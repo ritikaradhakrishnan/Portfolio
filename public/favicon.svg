@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0a0a0a"/>
+  <path d="M8 8h12v2H10v10H8V8Zm36 0h12v12h-2V10H44V8ZM8 44h2v10h10v2H8V44Zm46 0h2v12H44v-2h10V44Z" fill="#fff"/>
+  <text x="32" y="39" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">ЯR</text>
+</svg>
