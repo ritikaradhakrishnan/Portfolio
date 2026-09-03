@@ -1,7 +1,6 @@
 # Ritika Radhakrishnan — Portfolio
 
-Source code for [ritikaradhakrishnan.com](https://ritikaradhakrishnan.com), my personal portfolio covering my engineering experience, research, education, and work at Merit Labs.
-
+Source code for [ritikaradhakrishnan.com](https://ritikaradhakrishnan.com) :)
 ## Stack
 
 - Next.js and React
