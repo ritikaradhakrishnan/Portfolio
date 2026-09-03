@@ -5,12 +5,12 @@ Source code for [ritikaradhakrishnan.com](https://ritikaradhakrishnan.com) :)
 
 - Next.js and React
 - TypeScript
-- Vinext and Cloudflare Workers
+- Vinext, Cloudflare Workers
 - Custom responsive CSS
 
 ## Local development
 
-Requires Node.js 22.13 or newer.
+Requires Node.js 22.13.
 
 ```bash
 npm install
