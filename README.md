@@ -1,12 +1,12 @@
 # Ritika Radhakrishnan — Portfolio
 
-Source code for [ritikaradhakrishnan.com](https://ritikaradhakrishnan.com) :)
+my source code for [ritikaradhakrishnan.com](https://ritikaradhakrishnan.com) :)
 ## Stack
 
-- Next.js and React
-- TypeScript
-- Vinext, Cloudflare Workers
-- Custom responsive CSS
+- next.js and react
+- typeScript
+- vinext, cloudflare workers
+- custom responsive CSS
 
 ## Local development
 
@@ -22,3 +22,4 @@ Create a production build with:
 ```bash
 npm run build
 ```
+
